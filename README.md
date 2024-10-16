@@ -109,9 +109,15 @@ Ensure the test data is formatted similarly to the training data.
 
 Below are sample visualizations of model predictions versus ground truth:
 
-| Inertial Odometry  | Visual Odometry  | Visual-Inertial Odometry  |
-|--------------------|------------------|---------------------------|
-| ![IO Prediction](docs/io.png) | ![VO Prediction](docs/vo.png) | ![VIO Prediction](docs/vio.png) |
+### Inertial Odometry (IO)
+<img src="docs/io.png" alt="IO Prediction" width="900"/>
+
+### Visual Odometry (VO)
+<img src="docs/vo.png" alt="VO Prediction" width="900"/>
+
+### Visual-Inertial Odometry (VIO)
+<img src="docs/vio.png" alt="VIO Prediction" width="900"/>
+
 
 
 ---
@@ -119,11 +125,3 @@ Below are sample visualizations of model predictions versus ground truth:
 ## Contributing
 
 Contributions are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request. When contributing, please ensure your code follows the project's style guidelines and includes appropriate tests.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
